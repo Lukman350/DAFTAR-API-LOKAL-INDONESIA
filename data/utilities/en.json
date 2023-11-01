@@ -69,7 +69,7 @@
     },
     {
       "apiName": "Indiwtf API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://indiwtf.upset.dev/api/",
       "developer": {
         "name": "Frans Allen",
