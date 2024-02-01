@@ -68,17 +68,6 @@
       "authentication": "API KEY"
     },
     {
-      "apiName": "Harga Komoditas Pangan",
-      "status": false,
-      "documentationUrl": "https://jibs.my.id/api/harga_komoditas",
-      "developer": {
-        "name": "jibrilhp",
-        "profileUrl": null
-      },
-      "description": "Data mengenai hargapangan di Indonesia.",
-      "authentication": false
-    },
-    {
       "apiName": "Pahlawan Nasional Indonesia",
       "status": true,
       "documentationUrl": "https://github.com/yogski/indonesia-public-static-api#api-pahlawan-nasional-indonesia-apiheroes",
