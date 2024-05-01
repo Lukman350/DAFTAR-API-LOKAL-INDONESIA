@@ -153,7 +153,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Student Blue Archive                       | arufars                                 | [Link](https://github.com/arufars/api-blue-archive)                                                     | ✅     | API (unofficial) berisi informasi data character dari game Blue Archive.                                                                           | `false`     |
 | Tahukah Anda API                           | Icaksh                                  | [Link](https://cinnabar.icaksh.my.id/public/daily/tawiki)                                               | ✅     | API untuk mendapatkan informasi fakta harian (Tahukah Anda) yang berasal dari Wikipedia.                                                           | `false`     |
 | Tanggal Lahiran Pasaran Zodiak             | iBachor                                 | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak)                                | ✅     | Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat. | `false`     |
-| TOOLCEK                                    | Alex                                    | [Link](https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36) | ✅     | API Cek ID Games,Nomor Rekening,Nomor E-Wallet,Nomor meter PLN,DLL,Membantumu dalam system validasi,Integrasikan sekarang juga!                    | API KEY     |
+| TOOLCEK                                    | Alex                                    | [Link](https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36) | ❎     | API Cek ID Games,Nomor Rekening,Nomor E-Wallet,Nomor meter PLN,DLL,Membantumu dalam system validasi,Integrasikan sekarang juga!                    | API KEY     |
 
 ### Jasa Pengiriman
 
@@ -233,7 +233,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Nama API                         | Pengembang      | Dokumentasi                                                                          | Status | Deskripsi                                                                                                                                              | Autentikasi |
 | -------------------------------- | --------------- | ------------------------------------------------------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | API Data Sekolah Indonesia       | Alwan           | [Link](https://github.com/wanrabbae/api-sekolah-indonesia)                           | ✅     | Data Data Sekolah di Indonesia Lengkap.                                                                                                                | `false`     |
-| Data Mahasiswa Indonesia         | Kemendikbud     | [Link](https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida)         | ❎     | Data mahasiswa se-Indonesia mencakupi nama lengkap, universitas, dan program studi.                                                                    | `false`     |
+| Data Mahasiswa Indonesia         | Kemendikbud     | [Link](https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida)         | ✅     | Data mahasiswa se-Indonesia mencakupi nama lengkap, universitas, dan program studi.                                                                    | `false`     |
 | Data Sekolah API                 | Ahmad Ramadhan  | [Link](https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia) | ✅     | Data Sekolah Negeri di Indonesia.                                                                                                                      | `false`     |
 | Hibersunda Undak Usuk Basa Sunda | Hiberin Digital | [Link](https://github.com/hiberin/hibersunda)                                        | ✅     | API Pencarian Kosa Kata dalam Undak Usuk Basa Sunda.                                                                                                   | `false`     |
 | KBBI API                         | azharimm        | [Link](https://github.com/azharimm/kbbi-api)                                         | ✅     | Rest Api KBBI.                                                                                                                                         | `false`     |
@@ -248,10 +248,9 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Sosial Media
 
-| Nama API                  | Pengembang | Dokumentasi                                            | Status | Deskripsi                                              | Autentikasi |
-| ------------------------- | ---------- | ------------------------------------------------------ | ------ | ------------------------------------------------------ | ----------- |
-| Facebook Video Downloader | bramaudi   | [Link](https://github.com/bramaudi/fbdown)             | ❎     | Unofficial API Facebook untuk Scraping Video Facebook. | `false`     |
-| Twitter Trends            | azharimm   | [Link](https://github.com/azharimm/twitter-trends-api) | ✅     | Unofficial API Twitter trends data.                    | `false`     |
+| Nama API       | Pengembang | Dokumentasi                                            | Status | Deskripsi                           | Autentikasi |
+| -------------- | ---------- | ------------------------------------------------------ | ------ | ----------------------------------- | ----------- |
+| Twitter Trends | azharimm   | [Link](https://github.com/azharimm/twitter-trends-api) | ✅     | Unofficial API Twitter trends data. | `false`     |
 
 ### Umum
 
@@ -265,7 +264,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | ---------------------------- | ----------------------------------- | ----------------------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------- | ----------- |
 | 1Akun                        | 1Akun                               | [Link](https://1akun.com)                             | ✅     | API untuk autentikasi (Oauth).                                                                                 | API KEY     |
 | Arbanat                      | jajanjawa                           | [Link](https://arbanat.my.id)                         | ✅     | kirim sms melalui rest api.                                                                                    | API KEY     |
-| ConnectAPI                   | [Ihsan Devs](https://ihsandevs.com) | [Link](https://api.ihsandevs.io)                      | ✅     | API Publik yang menyediakan berbagai macam API dan layanan API akan bertambah seiring berjalannya waktu.       | API KEY     |
+| ConnectAPI                   | [Ihsan Devs](https://ihsandevs.com) | [Link](https://api.ihsandevs.io)                      | ❎     | API Publik yang menyediakan berbagai macam API dan layanan API akan bertambah seiring berjalannya waktu.       | API KEY     |
 | Distrowatch API (unofficial) | Zulfahmi                            | [Link](https://github.com/Zzzul/diwa)                 | ✅     | API untuk mendapatkan informasi seputar Linux.                                                                 | `false`     |
 | Google Playstore             | azharimm                            | [Link](https://github.com/azharimm/google-play-api)   | ✅     | Google playstore API.                                                                                          | `false`     |
 | Google Trends                | azharimm                            | [Link](https://github.com/azharimm/google-trends-api) | ✅     | Realtime Google Trends API.                                                                                    | `false`     |

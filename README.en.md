@@ -76,7 +76,7 @@ This file is translation from Original (Bahasa Indonesia).
 | API Name                         | Developer       | Documentation                                                                        | Status | Description                                                                                                                                                        | Authentication |
 | -------------------------------- | --------------- | ------------------------------------------------------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
 | API Data Sekolah Indonesia       | Alwan           | [Link](https://github.com/wanrabbae/api-sekolah-indonesia)                           | ✅     | Complete data of schools in Indonesia.                                                                                                                             | `false`        |
-| Data Mahasiswa Indonesia         | Kemendikbud     | [Link](https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida)         | ❎     | Data of students across Indonesia, including full name, university, and study program.                                                                             | `false`        |
+| Data Mahasiswa Indonesia         | Kemendikbud     | [Link](https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida)         | ✅     | Data of students across Indonesia, including full name, university, and study program.                                                                             | `false`        |
 | Data Sekolah API                 | Ahmad Ramadhan  | [Link](https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia) | ✅     | Public school data in Indonesia.                                                                                                                                   | `false`        |
 | Hibersunda Sundanese Dictionary  | Hiberin Digital | [Link](https://github.com/hiberin/hibersunda)                                        | ✅     | API for searching words in the Sundanese Dictionary.                                                                                                               | `false`        |
 | KBBI API                         | azharimm        | [Link](https://github.com/azharimm/kbbi-api)                                         | ✅     | KBBI REST API.                                                                                                                                                     | `false`        |
@@ -108,7 +108,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Student Blue Archive                       | arufars                                 | [Link](https://github.com/arufars/api-blue-archive)                                                     | ✅     | Unofficial API containing character data information from the game Blue Archive.                                                                  | `false`        |
 | Tahukah Anda API                           | Icaksh                                  | [Link](https://cinnabar.icaksh.my.id/public/daily/tawiki)                                               | ✅     | API to get daily facts (Did You Know?) from Wikipedia.                                                                                            | `false`        |
 | Tanggal Lahiran Pasaran Zodiak             | iBachor                                 | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak)                                | ✅     | Checks the zodiac sign based on birth date and provides birth date details, age details, and nearest upcoming birthday details.                   | `false`        |
-| TOOLCEK                                    | Alex                                    | [Link](https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36) | ✅     | API to check Game IDs, Bank Account Numbers, E-Wallet Numbers, PLN Meter Numbers, etc. Helps you with validation and integration in your systems! | API KEY        |
+| TOOLCEK                                    | Alex                                    | [Link](https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36) | ❎     | API to check Game IDs, Bank Account Numbers, E-Wallet Numbers, PLN Meter Numbers, etc. Helps you with validation and integration in your systems! | API KEY        |
 
 ### Financial
 
@@ -247,10 +247,9 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Social Media
 
-| API Name                  | Developer | Documentation                                          | Status | Description                                           | Authentication |
-| ------------------------- | --------- | ------------------------------------------------------ | ------ | ----------------------------------------------------- | -------------- |
-| Facebook Video Downloader | bramaudi  | [Link](https://github.com/bramaudi/fbdown)             | ❎     | Unofficial Facebook API for Scraping Facebook Videos. | `false`        |
-| Twitter Trends            | azharimm  | [Link](https://github.com/azharimm/twitter-trends-api) | ✅     | Unofficial API for Twitter trends data.               | `false`        |
+| API Name       | Developer | Documentation                                          | Status | Description                             | Authentication |
+| -------------- | --------- | ------------------------------------------------------ | ------ | --------------------------------------- | -------------- |
+| Twitter Trends | azharimm  | [Link](https://github.com/azharimm/twitter-trends-api) | ✅     | Unofficial API for Twitter trends data. | `false`        |
 
 ### Utilities
 
@@ -258,7 +257,7 @@ This file is translation from Original (Bahasa Indonesia).
 | ---------------------------- | ----------------------------------- | ----------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------- | -------------- |
 | 1Akun                        | 1Akun                               | [Link](https://1akun.com)                             | ✅     | API for authentication (OAuth).                                                          | API KEY        |
 | Arbanat                      | jajanjawa                           | [Link](https://arbanat.my.id)                         | ✅     | Send SMS through REST API.                                                               | API KEY        |
-| ConnectAPI                   | [Ihsan Devs](https://ihsandevs.com) | [Link](https://api.ihsandevs.io)                      | ✅     | The public API that provides various APIs and API services will increase over time.      | API KEY        |
+| ConnectAPI                   | [Ihsan Devs](https://ihsandevs.com) | [Link](https://api.ihsandevs.io)                      | ❎     | The public API that provides various APIs and API services will increase over time.      | API KEY        |
 | Distrowatch API (unofficial) | Zulfahmi                            | [Link](https://github.com/Zzzul/diwa)                 | ✅     | API to get information about Linux.                                                      | `false`        |
 | Google Playstore             | azharimm                            | [Link](https://github.com/azharimm/google-play-api)   | ✅     | Google Playstore API.                                                                    | `false`        |
 | Google Trends                | azharimm                            | [Link](https://github.com/azharimm/google-trends-api) | ✅     | Realtime Google Trends API.                                                              | `false`        |
