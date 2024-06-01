@@ -24,17 +24,6 @@
       "authentication": "API KEY"
     },
     {
-      "apiName": "ConnectAPI",
-      "status": false,
-      "documentationUrl": "https://api.ihsandevs.io",
-      "developer": {
-        "name": "Ihsan Devs",
-        "profileUrl": "https://ihsandevs.com"
-      },
-      "description": "The public API that provides various APIs and API services will increase over time.",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "Distrowatch API (unofficial)",
       "status": true,
       "documentationUrl": "https://github.com/Zzzul/diwa",
