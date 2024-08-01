@@ -126,7 +126,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 | Nama API                        | Pengembang | Dokumentasi                                           | Status | Deskripsi                                                 | Autentikasi |
 | ------------------------------- | ---------- | ----------------------------------------------------- | ------ | --------------------------------------------------------- | ----------- |
-| Hot thread kaskus (Un-official) | Bayu       | [Link](https://api.bayyu.net)                         | ❎     | Mendapatkan hot-thread dari Kaskus.                       | API KEY     |
+| Hot thread kaskus (Un-official) | Bayu       | [Link](https://api.bayyu.net)                         | ✅     | Mendapatkan hot-thread dari Kaskus.                       | API KEY     |
 | Kaskus API                      | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | ✅     | API untuk mengakses forum terkenal di Indonesia - Kaskus. | OAUTH       |
 
 ### Hiburan

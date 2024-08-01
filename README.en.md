@@ -139,7 +139,7 @@ This file is translation from Original (Bahasa Indonesia).
 
 | API Name                             | Developer  | Documentation                                         | Status | Description                                         | Authentication |
 | ------------------------------------ | ---------- | ----------------------------------------------------- | ------ | --------------------------------------------------- | -------------- |
-| Hot Threads from Kaskus (Unofficial) | Bayu       | [Link](https://api.bayyu.net)                         | ❎     | Retrieve hot threads from Kaskus.                   | API KEY        |
+| Hot Threads from Kaskus (Unofficial) | Bayu       | [Link](https://api.bayyu.net)                         | ✅     | Retrieve hot threads from Kaskus.                   | API KEY        |
 | Kaskus API                           | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | ✅     | API to access the famous Indonesian forum - Kaskus. | OAUTH          |
 
 ### General
