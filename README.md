@@ -247,10 +247,9 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Serba Guna
 
-| Nama API   | Pengembang                                          | Dokumentasi                       | Status | Deskripsi                                                                                                                                                                                  | Autentikasi |
-| ---------- | --------------------------------------------------- | --------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| Akuari Api | akuari                                              | [Link](https://api.akuari.my.id/) | ✅     | Kumpulan api kebutuhan bot, dan beberapa api: Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.                                           | `false`     |
-| Ryzen API  | [ShirokamiRyzen](https://github.com/ShirokamiRyzen) | [Link](https://api.ryzendesu.vip) | ❎     | Menyediakan API gratis untuk pengembangan aplikasi maupun bot, disertai dengan dokumentasi lengkap dan uptime hingga 99%. Akses berbagai API seperti AI, Downloader, Internet, dan lainnya | `false`     |
+| Nama API   | Pengembang | Dokumentasi                       | Status | Deskripsi                                                                                                                                        | Autentikasi |
+| ---------- | ---------- | --------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| Akuari Api | akuari     | [Link](https://api.akuari.my.id/) | ✅     | Kumpulan api kebutuhan bot, dan beberapa api: Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON. | `false`     |
 
 ### Sosial Media
 

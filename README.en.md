@@ -213,10 +213,9 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Multipurpose
 
-| API Name   | Developer                                           | Documentation                     | Status | Description                                                                                                                                                              | Authentication |
-| ---------- | --------------------------------------------------- | --------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
-| Akuari Api | akuari                                              | [Link](https://api.akuari.my.id/) | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.                                    | `false`        |
-| Ryzen API  | [ShirokamiRyzen](https://github.com/ShirokamiRyzen) | [Link](https://api.ryzendesu.vip) | ❎     | Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more | `false`        |
+| API Name   | Developer | Documentation                     | Status | Description                                                                                                                           | Authentication |
+| ---------- | --------- | --------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Akuari Api | akuari    | [Link](https://api.akuari.my.id/) | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response. | `false`        |
 
 ### Music
 
